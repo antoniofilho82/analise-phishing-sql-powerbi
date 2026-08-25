@@ -215,4 +215,4 @@ Os resultados são referentes ao conjunto de dados analisado e às regras utiliz
 
 ## 🔗 Fonte dos dados
 
-[Web Page Phishing Dataset - Kaggle](https://www.kaggle.com/datasets/danielfernando/web-page-phishing-dataset)
+[Web Page Phishing Dataset - Kaggle](https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset?resource=download)
