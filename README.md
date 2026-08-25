@@ -31,7 +31,7 @@ O CSV original apresenta algumas diferenças de nomenclatura em relação às ta
 
 O campo `unique_id` foi utilizado como chave de relacionamento entre as tabelas conforme a proposta do exercício, embora não faça parte do cabeçalho original do CSV.
 
-Fonte: [Web Page Phishing Dataset - Kaggle](https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset)
+Fonte: [Web Page Phishing Dataset - Kaggle](https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset?resource=download)
 
 ## 🗄️ Estrutura dos dados
 
